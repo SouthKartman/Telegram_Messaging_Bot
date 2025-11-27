@@ -1,0 +1,6 @@
+telethon==1.28.5
+python-dotenv==1.0.0
+cryptography==41.0.7
+psutil==5.9.6
+pytz==2023.3
+aiohttp==3.8.5
